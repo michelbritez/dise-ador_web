@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Suez+One');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+body{
+	padding-top: 45px;
+	background: url("../img/background.jpg");
+	background-size: cover;
+
+}
+
+.espacio{
+	margin-left: 25px;
+	box-shadow: 10px 10px 18px black, 10px 10px 18px black;
+
+}
+
+
+
+#perf1l{
+	width:250px;
+    height:250px;
+    border-radius:150px;
+    border: 3px solid;
+}
+.panel1{
+	text-align: center;
+	background-color: #FFFFFF;
+	box-shadow: 10px 10px 18px black, 10px 10px 18px black;
+}
+#a1{
+	margin: 4px;
+}
+
+.title{
+	font-family: IM Fell DW Pica;
+	
+}
+
+.subtitle{
+	color: #696767;
+	font-family: IM Fell English SC;
+
+}
+.perfiltitle2{
+	color: #939292;
+}
+.perfiltitle{
+	font-family: Cormorant Garamond;
+}
+#perfilsubtitle{
+	font-family: Josefin Slab;
+}
+
+.panel-body{
+	font-family: Crimson Text;
+
+}
+
+a{
+	font-family: Suez One;
+}
+#headingOne{
+		padding: 31.5px;
+}
+#headingTwo{
+		padding: 31.5px;
+}
+#headingThree{
+		padding: 31.5px;
+}
+
+.row{
+	
+}
+
